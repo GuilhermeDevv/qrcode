@@ -1,0 +1,8 @@
+.error {
+    background-color: #ff0000 !important;
+    color: white
+}
+
+.notError {
+    background-color: #a1a1a1 !important;
+}
